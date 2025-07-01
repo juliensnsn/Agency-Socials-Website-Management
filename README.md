@@ -1,6 +1,6 @@
 <h2>🌐 Agency Socials & Website Management</h2>
 
-<img align="center" alt="Agency-Socials-Website-Management" src="https://imgur.com/Qmf9QMg.png"/>
+<img align="center" alt="Agency-Socials-Website-Management" src="https://imgur.com/zZXcAJX.png"/>
 
 <h3>📝 Context</h3>
 <p>
