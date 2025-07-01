@@ -1,5 +1,7 @@
 <h2>🌐 Agency Socials & Website Management</h2>
 
+<img align="center" alt="Agency-Socials-Website-Management" src="https://imgur.com/Qmf9QMg.png"/>
+
 <h3>📝 Context</h3>
 <p>
   The agency owner wanted to generate and automate content for social networks (Facebook, Instagram, WordPress) based on AI-powered web research on their specific niche.
@@ -21,5 +23,3 @@
 <p>
   Project access 👉🏻 <a href="https://www.notion.so/julien-sanson/E-Dev-Media-Content-Generator-1fe9a792e6bf80dd92b9ea1be296b2c2?source=copy_link">here</a>
 </p>
-
-<img align="center" alt="Agency-Socials-Website-Management" src="https://imgur.com/Qmf9QMg.png"/>
