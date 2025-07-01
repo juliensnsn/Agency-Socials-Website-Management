@@ -22,4 +22,4 @@
   Project access 👉🏻 <a href="https://www.notion.so/julien-sanson/E-Dev-Media-Content-Generator-1fe9a792e6bf80dd92b9ea1be296b2c2?source=copy_link">here</a>
 </p>
 
-<img align="left" alt="Agency-Socials-Website-Management" src="https://imgur.com/Qmf9QMg.png"/>
+<img align="center" alt="Agency-Socials-Website-Management" src="https://imgur.com/Qmf9QMg.png"/>
